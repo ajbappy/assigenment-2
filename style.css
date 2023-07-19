@@ -517,6 +517,13 @@ nav > ul > li > a {
     width: 60%;
   }
 }
+
+@media (width <= 576px) {
+  .absulute-img {
+    bottom: -30px;
+    right: -30px;
+  }
+}
 /* play games online end  */
 
 /* all games section start  */
